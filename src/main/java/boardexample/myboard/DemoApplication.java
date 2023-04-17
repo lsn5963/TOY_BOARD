@@ -1,4 +1,4 @@
-package boardexample.myboard.domain;
+package boardexample.myboard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
